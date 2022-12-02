@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SuperKaninchen
 - Remember the part from George Orwell's "1984" where they put the rotisserie chicken in the microwave?
+- Völker hört die Signale! Auf zum letzten Gefecht!
 - 📫 How to reach me: github-public-mp@mnijenhuis.de
 
 <!---
